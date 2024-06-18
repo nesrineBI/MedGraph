@@ -1,0 +1,41 @@
+Patient Name: John Doe
+Date of Birth: 01/15/1970
+Date of Visit: 06/15/2024
+
+Chief Complaint:
+The patient presents with complaints of severe chest pain and shortness of breath that started two days ago. He describes the pain as a sharp, stabbing sensation localized in the center of the chest, radiating to the left arm. The pain is aggravated by physical activity and relieved by rest.
+
+History of Present Illness:
+Mr. John Doe is a 54-year-old male with a history of hypertension and hyperlipidemia. He reports experiencing intermittent chest pain over the past month, but the current episode is the most severe. He denies any recent trauma or physical injury. The patient has no history of similar symptoms in the past. He is currently taking Lisinopril 20 mg once daily and Atorvastatin 10 mg once daily.
+
+Review of Systems:
+- Cardiovascular: No palpitations, no syncope.
+- Respiratory: No cough, no wheezing.
+- Gastrointestinal: No nausea, no vomiting, no abdominal pain.
+- Neurological: No dizziness, no headache.
+
+Physical Examination:
+- Vital Signs: Blood pressure 160/95 mmHg, heart rate 92 bpm, respiratory rate 20 breaths/min, temperature 98.6°F.
+- General: The patient appears in moderate distress due to pain.
+- Cardiovascular: S1 and S2 heard, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no crackles or wheezes.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Neurological: Alert and oriented, no focal deficits.
+
+Assessment and Plan:
+1. Acute coronary syndrome (rule out myocardial infarction).
+   - Plan: Obtain ECG, cardiac enzymes, and chest X-ray.
+   - Start aspirin 81 mg daily, and nitroglycerin as needed for chest pain.
+   - Admit to telemetry for continuous cardiac monitoring.
+
+2. Hypertension.
+   - Plan: Continue Lisinopril, consider increasing the dose if blood pressure remains elevated.
+
+3. Hyperlipidemia.
+   - Plan: Continue Atorvastatin, recheck lipid panel in 6 months.
+
+The patient was informed about the potential diagnosis and the need for further testing. He was advised to avoid strenuous activities and report any worsening symptoms immediately.
+
+Signed,
+Dr. Jane Smith
+Cardiologist
